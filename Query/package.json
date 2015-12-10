@@ -1,0 +1,17 @@
+{
+  "name": "chap_05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "morgan": "^1.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon server "
+  },
+  "author": "",
+  "license": "ISC"
+}
